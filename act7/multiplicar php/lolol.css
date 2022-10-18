@@ -1,0 +1,17 @@
+div#general{
+	margin: auto;
+	margin-top: 60px ;
+	width: 350px;
+	height: 300px;
+	background-color: #21079f;
+	border-radius: 45px;
+	}
+
+	
+
+    body{
+        background-image: url(oly.jpg);
+        background-size: 100%;
+        background-attachment: fixed;
+       
+       }
